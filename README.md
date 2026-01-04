@@ -5,7 +5,7 @@ Lecture Management System developed in C++ using file handling and basic program
 
 Maryam – Roll No: 25021519-084
 Sidra – Roll No: 25021519-158
-Zunair – Roll No: 25021519-125
+Zunaira – Roll No: 25021519-125
 
 📝** Project Description**
 The Lecture Management System is a console-based C++ project that manages lecture, student, teacher, and course records using file handling.
@@ -32,7 +32,7 @@ Use the menu options to manage records.
 
 Maryam: Lecture management, lecture counting, and file handling
 Sidra: Student record management
-Zunair: Teacher and course management
+Zunaira: Teacher and course management
 
 
 
