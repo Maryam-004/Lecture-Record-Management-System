@@ -1,0 +1,12 @@
+L01,PHY-117,12-04-2025,3:00-5:00,ArfaKarim,112,Original,-,1
+M01,cs-102,14-08-2025,12:00-2:00,AlFarabi,213,Makeup,Event,1
+M02,cs-102,19-08-2025,11:00-12:00,Arfa - Karim,112,Original,-,2
+F04,cag-004,12-09-2025,9:00-11:00,New Block ,106,Origiaal,-,1
+GE-203,ICP-166,13-09-2025,4:00-5:00,NEW Block,106,Original,-,1
+L02,cag-004,29-07-2025,7:00-9:00,Al farabi,206,Makeup,TeacherAbsent,1
+PHY-117,l01,6-05-2025,3:00-6:00,New Block,112,Original,-,3
+PHY-117,101,4-09-2025,3:00-4:00,Arfa Karim,102,Makeup,TeacherAbsent,2
+101,PHY-117,13-6-2025,2:00-2:30,New Block,206,Makeup,TeacherAbsent,4
+101,PHY-117,12-09-2025,12:00-3:00,Arfa karim,121,makeup,Event,3
+101,Phy-117,12-09-2025,4:00-7:00,New Block,208,Original,-,3
+L01,Phy-117,3-01-2025,12:00-1:00,Arfa Karim,121,Makeup,Holiday,1
