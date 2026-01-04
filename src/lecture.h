@@ -14,4 +14,11 @@ void countLectures();
 void addstudent()
 void readstudent()
 
+// ===============================
+//     ZUNAIRA (Course & Teacher)
+// ===============================
+void course()
+void readcourse()
+void addteacher()
+void readteacher()
 #endif
