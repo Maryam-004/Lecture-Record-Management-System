@@ -4,7 +4,6 @@
 #include "lecture.h"
 
 using namespace std;
-
 void addLecture() {
 
     ofstream file("LectureRecord.txt", ios::app);
