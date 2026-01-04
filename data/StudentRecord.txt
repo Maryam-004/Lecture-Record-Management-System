@@ -1,0 +1,7 @@
+101,Huzaifa,1,Computer Science
+102,Ali,3,d
+103,Sidra,1,Computer Science
+104,Kanwal,3,Computer Science
+105,Awais Ali,4,Software Engineering
+106,Fahad Ali,7,Information Technology
+107,Noman Ijaz,5,History
