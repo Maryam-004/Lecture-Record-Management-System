@@ -8,7 +8,7 @@ int main() {
     int choice;
 
     do {
-        cout << "\n========= UNIVERSITY MANAGEMENT SYSTEM =========\n";
+        cout << "\n=========Lecture record management system=========\n";
         cout << "1. Add Lecture\n";
         cout << "2. View Lectures\n";
         cout << "3. Count Lectures (Course wise)\n";
