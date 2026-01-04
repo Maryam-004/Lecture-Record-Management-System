@@ -4,6 +4,7 @@
 #include "lecture.h"
 
 using namespace std;
+
 void countLectures() {
 
     ifstream file("LectureRecord.txt");
